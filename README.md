@@ -13,4 +13,4 @@ Tehnologii Utilizate
 - IDE: Visual Studio 2022
 - Concepte SO: Dynamic Link Library (DLL), Shared Data Segments, Gestiunea excepțiilor
 
-
+In fisierul Proiect Individual-Nr.20 se afla niste capturi de ecran cu rezultatele obtinute in urma rularii.
