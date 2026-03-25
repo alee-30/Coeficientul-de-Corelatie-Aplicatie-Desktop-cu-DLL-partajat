@@ -9,7 +9,7 @@ Funcționalități
 - Partajarea Datelor: Permite partajarea valorilor numerice între mai multe instanțe ale aplicației prin intermediul memoriei partajate în DLL
 
 Tehnologii Utilizate
-- Limbaj: C++ / C# 
+- Limbaj: C++
 - IDE: Visual Studio 2022
 - Concepte SO: Dynamic Link Library (DLL), Shared Data Segments, Gestiunea excepțiilor
 
