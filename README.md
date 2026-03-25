@@ -1,6 +1,6 @@
 Coeficientul de Corelație - Aplicație Desktop cu DLL Partajat
 
-Acest proiect reprezintă o aplicație desktop (C++/C#) dezvoltată pentru disciplina Sisteme de Operare de la facultate. 
+Acest proiect reprezintă o aplicație desktop (C++) dezvoltată pentru disciplina Sisteme de Operare de la facultate. 
 Obiectivul principal este calculul coeficientului de corelație R între două seturi de date, utilizând o bibliotecă de link-editare dinamică (DLL) pentru procesare și partajarea datelor.
 
 Funcționalități
